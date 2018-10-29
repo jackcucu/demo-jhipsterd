@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "demoJhipster",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ro",
+      "ru",
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NGMzMGViN2ExM2I1NDkzNjdlM2Y4OWQ3OTY1ZDdiNGY0NDFiMzk1ODdiOTk5OTg5MDg1NDkyNjQzMTRlMDZkZmIzNWIxYjc0NDBhNzBlYmIzY2JhMTRmY2Y1YTQ2MjZiNDBiMTEzZjhmMGZlMDIwNGI0YmI1NDQxY2E3YWRmY2Q="
+  },
+  "git-provider": "GitHub",
+  "git-company": "jackcucu",
+  "repository-name": "demo-jhipsterd"
+}
